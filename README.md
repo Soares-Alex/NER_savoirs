@@ -3,7 +3,7 @@
 # 🪐 SAVOIRS Project: 
 ## Detecting placeName and persName (Named Entity Recognition) 
 
-This project uses around 100 texts about History of sciences, History of knowlegdes, Anthropology of sciences and Culture Studies. It is directed by Christian Jacob - EHESS, piloted by Carmen Brando EHESS - Geomatique lab and executed by Alex Soares. 
+This project uses around 100 texts about History of sciences, History of knowlegdes, Anthropology of sciences and Culture Studies. It is directed by Christian Jacob - EHESS, piloted by Carmen Brando EHESS - Geomatique lab and executed by Carmen Brando and Alex Soares. 
 
 ## 📋 project.yml
 
